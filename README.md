@@ -1,5 +1,6 @@
 # :+1: SaleUI
-An app to allow users to load menus, select from menus, create orders and then check out 
+An app to allow users to load menus, select from menus, create orders and then check out
+![alt text](https://github.com/zpl0310/SaleUI/blob/master/order.png)
 
 ## Basic Features:
 1. Load menus txt file, create buttons for each dish and display their name and price

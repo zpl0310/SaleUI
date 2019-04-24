@@ -1,4 +1,4 @@
-# :+1:SaleUI
+# :+1: SaleUI
 An app to allow users to load menus, select from menus, create orders and then check out 
 
 ## Basic Features:

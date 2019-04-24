@@ -1,4 +1,3 @@
-Name:Zhengpeng Li  ID: 011078626
 
 About GUI:
 
